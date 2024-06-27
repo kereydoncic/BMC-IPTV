@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:1 group-title="KAPAMILYA" tvg-id="kapamilya/a2z" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] A2Z
+#EXTINF:-1 tvg-logo="https://www.canva.com/design/DAGJX-RqRiw/RsPkuH-ivz533cYliKbVTw/view?utm_content=DAGJX-RqRiw&utm_campaign=designshare&utm_medium=link&utm_source=editor" group-title="😎JBLANZA😎🇵🇭TV FREE IPTV FOR EVERYONE!📡",A2Z
 http://45.89.149.2/stream/kapamilya/a2z/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
 
 #EXTINF:2 group-title="KAPAMILYA" tvg-id="kapamilya/abcaustralia" tvg-logo="" provider="KAPAMILYA" provider-logo="" provider-type="iptv",[KAPAMILYA] ABC AUSTRALIA
