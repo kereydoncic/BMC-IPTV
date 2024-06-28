@@ -804,7 +804,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/WION.in.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V2!📡",WION
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:63:3C:D2&stream=277338&extension=ts
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V3!📡",NBA TV FINAL TEST NO BUFF
 https://dvrfl07.bozztv.com/astv-nbatv/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" tvg-name="10" group-title="😎JBLANZA😎🇵🇭PH BACKUP V3!📡",TV5
@@ -1051,7 +1050,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.br" group-title="😎JBLANZA😎🇵🇭PH BACKUP V3!📡",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QQzfEFj.png group-title=" tvg-name="" group-title="😎JBLANZA😎🇵🇭PH BACKUP V3!📡",Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V3!📡",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax.jp" group-title="😎JBLANZA😎🇵🇭PH BACKUP V3!📡",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
