@@ -1,3 +1,111 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭TV FREE IPTV FOR EVERYONE!📡",A2Z
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",A2Z
 http://45.89.149.2/stream/kapamilya/a2z/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",ABC AUSTRALIA
+http://45.89.149.2/stream/kapamilya/abcaustralia/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",ALJAZEERA
+http://45.89.149.2/stream/kapamilya/aljazeera/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",ANIMAX
+http://45.89.149.2/stream/kapamilya/animax/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",ARIRANG
+http://45.89.149.2/stream/kapamilya/arirang/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",AXN
+http://45.89.149.2/stream/kapamilya/axn/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",BLOOMBERG
+http://45.89.149.2/stream/kapamilya/bloomberg/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",BUKO
+http://45.89.149.2/stream/kapamilya/buko/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",CCTV4
+http://45.89.149.2/stream/kapamilya/cctv4/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",CGTN
+http://45.89.149.2/stream/kapamilya/cgtn/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",CINEMAX
+http://45.89.149.2/stream/kapamilya/cinemax/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",CNA
+http://45.89.149.2/stream/kapamilya/cna/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",DREAMWORKS TAGALOG
+http://45.89.149.2/stream/kapamilya/dreamworkstagalog/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",FRANCE 24
+http://45.89.149.2/stream/kapamilya/france24/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",GMA
+http://45.89.149.2/stream/kapamilya/gma/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",GTV
+http://45.89.149.2/stream/kapamilya/gtv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HBO FAMILY
+http://45.89.149.2/stream/kapamilya/hbofamily/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HBO HD
+http://45.89.149.2/stream/kapamilya/hbohd/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HBO HITS
+http://45.89.149.2/stream/kapamilya/hbohits/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HBO SIGNATURE
+http://45.89.149.2/stream/kapamilya/hbosignature/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HGTV
+http://45.89.149.2/stream/kapamilya/hgtv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HISTORY
+http://45.89.149.2/stream/kapamilya/history/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HITS HD
+http://45.89.149.2/stream/kapamilya/hitshd/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HITS MOVIES
+http://45.89.149.2/stream/kapamilya/hitsmovies/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",HITS NOW
+http://45.89.149.2/stream/kapamilya/hitsnow/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",I HEART MOVIE
+http://45.89.149.2/stream/kapamilya/iheartmovie/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",IBC
+http://45.89.149.2/stream/kapamilya/ibc/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",KAPAMILYA CHANNEL
+http://45.89.149.2/stream/kapamilya/kapamilyachannel/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",KBS WORLD
+http://45.89.149.2/stream/kapamilya/kbsworld/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",KNOWLEDGE CHANNEL
+http://45.89.149.2/stream/kapamilya/knowledgechannel/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",LIFETIME SD
+http://45.89.149.2/stream/kapamilya/lifetimesd/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",MOONBUG KIDS
+http://45.89.149.2/stream/kapamilya/moonbugkids/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",MPTV
+http://45.89.149.2/stream/kapamilya/mptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",NBA PHILIPPINES
+http://45.89.149.2/stream/kapamilya/nbaphilippines/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",NHK WORLD JAPAN
+http://45.89.149.2/stream/kapamilya/nhkworldjapan/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",NICK JR
+http://45.89.149.2/stream/kapamilya/nickjr/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",NICKELODEON
+http://45.89.149.2/stream/kapamilya/nickelodeon/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",ONE NEWS
+http://45.89.149.2/stream/kapamilya/onenews/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",ONE PH
+http://45.89.149.2/stream/kapamilya/oneph/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",ONE SPORT
+http://45.89.149.2/stream/kapamilya/onesport/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",PBA RUSH
+http://45.89.149.2/stream/kapamilya/pbarush/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",PBO
+http://45.89.149.2/stream/kapamilya/pbo/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",PTV 4
+http://45.89.149.2/stream/kapamilya/ptv4/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",rptv
+http://45.89.149.2/stream/kapamilya/rptv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",SARI-SARI
+http://45.89.149.2/stream/kapamilya/sarisari/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",SPOTV
+http://45.89.149.2/stream/kapamilya/spotv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",TAP EDGE
+http://45.89.149.2/stream/kapamilya/tapedge/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",TAP SPORTS
+http://45.89.149.2/stream/kapamilya/tapsports/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",TMC
+http://45.89.149.2/stream/kapamilya/tmc/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",TV5 MONDE
+http://45.89.149.2/stream/kapamilya/tv5monde/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",TVN MOVIES PINOY
+http://45.89.149.2/stream/kapamilya/tvnmoviespinoy/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",TVN PREMIUM+
+http://45.89.149.2/stream/kapamilya/tvnpremium/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",UAAP
+http://45.89.149.2/stream/kapamilya/uaap/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",VIVA CINEMA
+http://45.89.149.2/stream/kapamilya/vivacinema/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭FREE IPTV FOR EVERYONE!📡",WARNER TV
+http://45.89.149.2/stream/kapamilya/warnertv/master.m3u8?u=testingnixigncode&p=1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667
