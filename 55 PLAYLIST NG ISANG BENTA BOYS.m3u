@@ -1194,6 +1194,132 @@ http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.c
 http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zoHBxn1.png" tvg-country="BR" group-title="😎JBLANZA😎🇵🇭PH BACKUP V3!📡",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",stbs global
+http://45.89.149.42:8080/memfs/24edb246-ff61-4692-9235-01bbea3dd419.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",star television broadcasting station
+http://45.89.149.42:8080/memfs/2ee4f342-e8a0-477d-bef1-1172628ffde6.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",dreamstar tv
+http://45.89.149.42:8080/memfs/d46f93d7-f955-4122-8a31-ebe2a00fe31f.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",dream tv philippines
+http://45.89.149.42:8080/memfs/db8656dd-f3de-4b1b-96a2-328fa0fba58b.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",TAIWAN PLUS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",TV5 HD
+https://wag.ika.lat/dos/tv5_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",RPTV HD
+https://wag.ika.lat/tres/cnnph_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡"T,RUE FM
+https://wag.ika.lat/nwebe/paramount_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",PTV 4
+https://wag.ika.lat/dos/ptv_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",IBC 13
+https://wag.ika.lat/dyes/ibc13_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",A2Z
+https://wag.ika.lat/dos/a2zsd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE PH
+https://wag.ika.lat/kwatro/oneph_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE NEWS
+https://wag.ika.lat/kwatro/onenews_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",BUKO
+https://wag.ika.lat/sais/buko_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",SARI-SARI
+https://wag.ika.lat/sais/sari-sari_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",PBA RUSH
+https://wag.ika.lat/uno/pbarushhd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE SPORTS HD
+https://wag.ika.lat/singko/onesports_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE SPORTS+
+https://wag.ika.lat/tres/onesportsplushd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",UAAP VARSITY CHANNEL
+https://wag.ika.lat/kwatro/uaap_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",MPTV
+https://wag.ika.lat/nwebe/mptv_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",KNOWLEDGE CHANNEL
+https://wag.ika.lat/trese/knowledgechannel_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",DEPED TV
+https://wag.ika.lat/kwatro/depedtv_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",PBA RUSH
+https://wag.ika.lat/uno/pbarushhd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE SPORTS HD
+https://wag.ika.lat/singko/onesports_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE SPORTS+
+https://wag.ika.lat/tres/onesportsplushd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",UAAP VARSITY CHANNEL
+https://wag.ika.lat/kwatro/uaap_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",TAP SPORTS
+https://wag.ika.lat/onse/tapsports_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",MPTV
+https://wag.ika.lat/nwebe/mptv_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE PH
+https://wag.ika.lat/kwatro/oneph_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ONE NEWS
+https://wag.ika.lat/kwatro/onenews_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",RPTV HD
+https://wag.ika.lat/tres/cnnph_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",AL JAZEERA
+https://wag.ika.lat/dose/aljazeera_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",BLOOMBERG
+https://wag.ika.lat/nwebe/bloomberg_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",CNA
+https://wag.ika.lat/trese/channelnewsasia_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",CNN HD
+https://wag.ika.lat/dose/cnnhd_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",CCTV 4
+https://wag.ika.lat/dose/cctv_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",FRANCE 24
+https://wag.ika.lat/onse/france24_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",HBO HD
+https://wag.ika.lat/tres/hbohd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",HBO SIGNATURE HD
+https://wag.ika.lat/uno/hbosighd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",HBO HITS HD
+https://wag.ika.lat/nwebe/hbohitshd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",HBO FAMILY HD
+https://wag.ika.lat/tres/hbofamilyhd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",CINEMAX HD
+https://wag.ika.lat/uno/cinemaxhd_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",HITS MOVIES
+https://wag.ika.lat/dose/hitsmovies_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",TVN MOVIES PINOY
+https://wag.ika.lat/trese/natgeowild_dr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",buzzr
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",BOZZ TV
+https://glb.bozztv.com/glb/ssh101/hmdo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",I HEART MOVIES
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/4631
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",HEART OF ASIA
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/4642
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",PINOY HITS
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/3966
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",GTV
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/1
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",GMA
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/23
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",ALLTV
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/3889
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",SOLARFLIX
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/34
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",CELESTIAL MOVIES
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/39
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",KAPAMILYA HD
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/3406
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",KAPAMILYA SD
+http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/7
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",LONESTAR
+https://cinedigm-lonestar-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",PLEX AMAGI TV
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",WONDER PLEX TV
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",RAKUTEN AMAGI TV
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",CATTY TV
+https://catty.wtf/cignalplay/tapedge/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",CARTOONITO ASIA
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/boomerang_qp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jYlmYjw.png" group-title="😎JBLANZA😎🇵🇭PH BACKUP V4!📡",TECHSTORM
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/techstorm_dr.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/1ae01d064c6cd7dff0de9d2572ef8265.png" tvg-name="US : NBA ATLANTA HAWKS" group-title="😎JBLANZA😎🇵🇭NBA TEAM FEEDS!📡",-1   , US : NBA ATLANTA HAWKS
 http://tkosportz.live:25461/AlFasano2/sg555AJGy2/99247
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/ed646fdba2fd6555a65d0bcfdfa43853.png" tvg-name="US : NBA BOSTON CELTICS" group-title="😎JBLANZA😎🇵🇭NBA TEAM FEEDS!📡",-1   , US : NBA BOSTON CELTICS
